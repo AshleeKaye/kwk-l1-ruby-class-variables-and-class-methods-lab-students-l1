@@ -10,4 +10,7 @@
 
 #jessica = User.new
 #jessica.name = "jessica"
-puts jessica.name
+#puts jessica.name
+
+class User
+  attr_accessor
