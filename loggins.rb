@@ -9,5 +9,5 @@ class User
 end
 
 jessica = User.new
-jessica.name = jessica
+jessica.name = "jessica"
 puts jessica.name
