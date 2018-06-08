@@ -13,4 +13,6 @@
 #puts jessica.name
 
 class User
-  attr_accessor
+  attr_accessor :username, :password, :email, :age
+  
+  def initialize
