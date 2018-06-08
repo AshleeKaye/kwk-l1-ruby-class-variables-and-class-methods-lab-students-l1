@@ -27,7 +27,7 @@ end
 
 
 jessica=User.new("jessica", "password", "jessica@jessica.com", "19")
-sofia=Usaer.new("sofia", "123cats", "sofia@sofiaownstheworld.com", "17")
+sofia=User.new("sofia", "123cats", "sofia@sofiaownstheworld.com", "17")
 puts jessica.username
 puts jessica.password
 puts jessica.email
