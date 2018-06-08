@@ -18,7 +18,7 @@ class User
   #this is always initialize (make sure to spell it right)
   def initialize(username, password, email, age)
     @username=username
-    @password-password
+    @password=password
     @email=email
     @age=age
   end
