@@ -6,8 +6,8 @@
 #  def name
 #    @the_username
   #end
-end
+#end
 
-jessica = User.new
-jessica.name = "jessica"
+#jessica = User.new
+#jessica.name = "jessica"
 puts jessica.name
