@@ -5,7 +5,7 @@
  # end
 #  def name
 #    @the_username
-#  end
+  #end
 end
 
 jessica = User.new
